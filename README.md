@@ -33,6 +33,8 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
 7. **Customer Acquisition Cost:** 
    - Estimates the cost of acquiring customers across different card segments.
    - Provides insights into customer acquisition strategies and cost-effectiveness.
+![Transaction report](https://github.com/Jayant-Projects/Credit_Card_Weekly_Status_Report-Power_BI/assets/142287323/c516edeb-034f-4574-a79d-72e46b0fc42b)
+![Customer report](https://github.com/Jayant-Projects/Credit_Card_Weekly_Status_Report-Power_BI/assets/142287323/6392f7fd-ee8b-4149-bb8f-1cfe7899f182)
 
 ## Conclusion:
 
