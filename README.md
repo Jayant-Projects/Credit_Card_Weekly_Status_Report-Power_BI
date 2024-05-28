@@ -1,5 +1,7 @@
 # Credit_Card_Weekly_Status_Report-Power_BI
 
+###Presentation Link - https://www.linkedin.com/feed/update/urn:li:activity:7201256498532929536/
+
 ## Project Objective
 
 To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
