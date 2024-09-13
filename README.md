@@ -1,7 +1,9 @@
 # Credit_Card_Weekly_Status_Report-Power_BI
 
+![proj_1](https://github.com/user-attachments/assets/31fc4be0-71fd-4096-9e2b-4ed625302a37)
+
+
 ### Live Dashboard - [Link](https://mavenanalytics.io/project/16401)
-### Live Presentation - [Link](https://www.linkedin.com/feed/update/urn:li:activity:7201256498532929536/)
 
 ## Project Objective
 
